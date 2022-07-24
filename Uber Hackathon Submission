@@ -1,0 +1,11 @@
+name = "Alan"
+location = "Scotts Square Condominium"
+array = ["Jason","Tristen","Enrei"]
+val = input("Emergency y/n?")
+if val == "y":
+    array.insert(0,name)
+    location = "Mount Elizabeth Hospital"
+elif val == "n":
+    array.append(name)
+print ("In order of priority:",array)
+print ("Location for Alan:",location)
