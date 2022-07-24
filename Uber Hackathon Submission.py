@@ -3,7 +3,7 @@ name = "Allen"
 location = "74 Street Camden Avenue"
 
 #Variable "hospitals" ordered in proximity to accident site
-hospitals = ["Saint Bonaventure Hospital","Malcova Hospital","Regent Medical"]
+hospitals = ["Bicentenario Hospital","Malcova Hospital","Regent Medical"]
 
 #Other riders
 array = ["Bob","Cali","Dera"]
